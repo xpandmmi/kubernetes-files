@@ -1,0 +1,6 @@
+app.install.service$Boolean=false
+portChoice=custom
+httpPort=7990
+serverPort=8006
+app.stashHome=/var/atlassian/application-data/stash
+app.defaultInstallDir=/opt/atlassian/stash/latest
